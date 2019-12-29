@@ -20,7 +20,7 @@ import java.util.Locale;
 import java.util.Set;
 
 /**
- * A user.
+ * A user - testing a change.
  */
 @Entity
 @Table(name = "jhi_user")
